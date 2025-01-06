@@ -1,4 +1,5 @@
 # Fast-AI-Billing-System
+
 Abstract:
 This cutting-edge solution reinvents the retail checkout process by combining computer vision, 
 machine learning, and a customer interface app. The Fast AI Billing System provides an 
@@ -11,6 +12,7 @@ process is to reduce client effort and expedite the conventional checkout proced
 involves creating an app with an intuitive user interface to help close the gap between online 
 and in-store purchasing experiences. Clients may easily review their chosen products, interact 
 with their virtual shopping cart, and make secure payments.
+
 Advantages:
 1. Future developments with a "Fast AI Billing System" could lead to even more intelligent 
 and rapid billing procedures.
